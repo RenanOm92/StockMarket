@@ -1,6 +1,6 @@
 # StockMarket
 
-Software desenvolvido até metade, escassez de obter alguns dados das empresas nas bolsas de valores que seriam necessários para fazer o uso da estratégia resultaram no travamento do desenvolvimento. Contornável. Criado na linguagem Python por causa da facilidade de extração de dados da web e necessidade do desenvolvedor em treinar tal linguagem.
+Software desenvolvido até metade, escassez de obter alguns dados das empresas nas bolsas de valores que seriam necessários para fazer o uso da estratégia resultaram no travamento do desenvolvimento. Contornável. Criado na linguagem Python por causa da facilidade de extração de dados da web e necessidade do desenvolvedor (eu hahaha) em treinar tal linguagem. Software até o presente momento só tem  regras implementadas, nenhuma GUI (mas o planejamento era criar em etapas posteriores)
 
 Ideia de criar um software que usa a estratégia de Susan Levermann para avaliar se uma ação é recomendada para investir. A estratégia é composta por 12 regras, que envolvem vários indicadores da empresa, gerando um parecer final.
 
